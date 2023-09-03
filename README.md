@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**ZerksisMistry/ZerksisMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Zerksis Mistry — @ZerksisMistry
 
-Here are some ideas to get you started:
+![banner](YourBannerImageURLHere)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, world! 🌏 
+
+I'm Zerksis, a budding techie from the incredible land of India🇮🇳. I'm on a quest to master AI along with all it's subfields such as ML, DL, Computer Vision, NLP and Generative AI.
+
+## 🌟 Current Adventures
+
+- 🎓 **Skills I'm Acquiring**: My current focus is on AI, ML, DL, Computer Vision, NLP, and Generative AI. Each day brings a new challenge, and I'm loving it!
+- 🏗 **Project Central**: Crafting some Python projects that even Dumbledore would find magical. 🪄
+- 🤝 **Team Up**: If you've got a Python project that can change the world (or at least make life easier), let's join forces!
+
+## 🤔 How Can We Collaborate?
+
+- 🌐 **Open Source**: Looking for a mentor who can guide me through the world of Open Source. Any takers?
+- 🗨 **Let's Talk**: Got questions about Python or project ideas that are as short as a Tweet? Hit me up!
+
+## 🧰 Tech Stack
+
+Just a few weapons in my coding arsenal:
+
+```bash
+Python, React, ML, Django, Data Science, AI, DL, Computer Vision, NLP, Generative AI
+
