@@ -1,9 +1,6 @@
+# <h1 align="center"> Hi, I'm Zerksis Mistry 👨‍💻 </h>
 
-
-
-
-# <h1 align="center"> Hi, I'm Zerksis Mistry </h>
-
+## <h1 align="center"> A passionate programmer from India </h>
 
 Hello, world! 🌏 
 
@@ -24,6 +21,10 @@ I'm Zerksis, a budding techie from the incredible land of India🇮🇳. I'm on 
 
 Just a few weapons in my coding arsenal:
 
-```bash
-Python, React, ML, Django, Data Science, AI, DL, Computer Vision, NLP, Generative AI
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv)
+![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
+
 
