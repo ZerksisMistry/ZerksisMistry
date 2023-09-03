@@ -21,10 +21,11 @@ I'm Zerksis, a budding techie from the incredible land of India🇮🇳. I'm on 
 
 Just a few weapons in my coding arsenal:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv)
-![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 
