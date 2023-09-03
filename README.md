@@ -1,13 +1,9 @@
-<h1 align="center">👨‍💻 Zerksis Mistry — @ZerksisMistry
-
-<p align="center">
-  This text is centered!
-</p>
 
 
-<h1 align="center"> 
-  # Hi, I'm Zerksis Mistry
-</h1>
+
+
+# <h1 align="center"> Hi, I'm Zerksis Mistry </h>
+
 
 Hello, world! 🌏 
 
