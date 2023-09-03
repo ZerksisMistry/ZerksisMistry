@@ -4,7 +4,8 @@
 
 Hello, world! 🌏 
 
-I'm Zerksis, a budding techie from the incredible land of India🇮🇳. I'm on a quest to master AI along with all it's subfields such as ML, DL, Computer Vision, NLP and Generative AI.
+👋 Hello! I'm Zerksis, a passionate techie from the incredible land of India🇮🇳. My ambition extends beyond mere fascination with technology; I'm on a dedicated quest to master the complexities of Artificial Intelligence. This includes venturing into its sub-fields such as Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and the untapped domain of Generative AI. Join me on this exhilarating journey through a universe filled with endless possibilities and innovations!
+
 
 ## 🌟 Current Adventures
 
@@ -17,15 +18,6 @@ I'm Zerksis, a budding techie from the incredible land of India🇮🇳. I'm on 
 - 🌐 **Open Source**: Looking for a mentor who can guide me through the world of Open Source. Any takers?
 - 🗨 **Let's Talk**: Got questions about Python or project ideas that are as short as a Tweet? Hit me up!
 
-## 🧰 Tech Stack
-
-Just a few weapons in my coding arsenal:
-
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=for-the-badge&logo=opencv)
-![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=r)
 
 
 
