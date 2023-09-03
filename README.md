@@ -4,6 +4,7 @@
 <p style="text-align:justify;">👋 Hello! I'm Zerksis, a passionate techie from the incredible land of India🇮🇳. My ambition extends beyond mere fascination with technology; I'm on a dedicated quest to master the complexities of Artificial Intelligence. This includes venturing into its sub-fields such as Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and the untapped domain of Generative AI. Join me on this exhilarating journey through a universe filled with endless possibilities and innovations!</p>
 
 
+
 ## 🌟 Current Adventures
 
 - 🎓 **Skills I'm Acquiring**: My current focus is on AI, ML, DL, Computer Vision, NLP, and Generative AI. Each day brings a new challenge, and I'm loving it!
