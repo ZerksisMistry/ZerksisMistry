@@ -2,8 +2,7 @@
 
 # 👨‍💻 Zerksis Mistry — @ZerksisMistry
 
-![banner](https://www.bing.com/images/create/a-man-working-on-his-laptop2c-ai2c-digital-art/64f4d23a8e3c43478840e9559847c80f)
-
+![Alt text]([URL](https://www.bing.com/images/create/a-man-working-on-his-laptop2c-ai2c-digital-art/64f4d23a8e3c43478840e9559847c80f?id=k%2b7KH%2fQHHZ24mmy%2fexVJ%2fA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay))
 
 Hello, world! 🌏 
 
