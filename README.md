@@ -3,7 +3,8 @@
 
 👋 Hello! I'm Zerksis, a passionate techie from the incredible land of India🇮🇳. My ambition extends beyond mere fascination with technology; I'm on a dedicated quest to master the complexities of Artificial Intelligence. This includes venturing into its sub-fields such as Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and the untapped domain of Generative AI. Join me on this exhilarating journey through a universe filled with endless possibilities and innovations!
 
-
+## ⚙️ Analytics
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZerksisMistry?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🌟 Current Adventures
 
